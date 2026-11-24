@@ -80,11 +80,6 @@ An **interactive Tableau dashboard** was built to present customer behavior and 
 
 The dashboard serves as a visual reporting layer for communicating the findings and supporting business discussions.
 
-**Dashboard preview:** Add a screenshot of the Tableau dashboard here once available.
-
-```text
-[Add Tableau dashboard screenshot here]
-```
 
 ---
 
@@ -127,21 +122,6 @@ These are potential strategic actions suggested by the findings, not measured ou
 - Segmented customers into **New (50%), Returning (35%), and Loyal (15%)** tiers.
 - Built an **interactive Tableau dashboard** to communicate insights to stakeholders.
 - Translated customer spending behavior into business-oriented findings.
-
----
-
-## Repository Structure
-
-The repository can be organised as follows as project files become available:
-
-```text
-customer-behavior-sales-analytics/
-│
-├── README.md
-├── data/                       # Add source dataset if shareable
-├── dashboard/                  # Add Tableau workbook (.twb/.twbx)
-└── screenshots/                # Add dashboard screenshots
-```
 
 ---
 
